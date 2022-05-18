@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET Microservices – Full Course\\microservices-weather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj": {}
+    "C:\\Users\\tshterev\\OneDrive - ENDAVA\\Desktop\\Bench-Time-Study\\microservices-weather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj": {}
   },
   "projects": {
-    "D:\\.NET Microservices – Full Course\\microservices-weather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj": {
+    "C:\\Users\\tshterev\\OneDrive - ENDAVA\\Desktop\\Bench-Time-Study\\microservices-weather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET Microservices – Full Course\\microservices-weather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
+        "projectUniqueName": "C:\\Users\\tshterev\\OneDrive - ENDAVA\\Desktop\\Bench-Time-Study\\microservices-weather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
         "projectName": "CloudWeather.DataLoader",
-        "projectPath": "D:\\.NET Microservices – Full Course\\microservices-weather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET Microservices – Full Course\\microservices-weather\\CloudWeather.DataLoader\\obj\\",
+        "projectPath": "C:\\Users\\tshterev\\OneDrive - ENDAVA\\Desktop\\Bench-Time-Study\\microservices-weather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
+        "packagesPath": "C:\\Users\\tshterev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tshterev\\OneDrive - ENDAVA\\Desktop\\Bench-Time-Study\\microservices-weather\\CloudWeather.DataLoader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tshterev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

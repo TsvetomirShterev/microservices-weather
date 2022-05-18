@@ -13,3 +13,18 @@ D:\.NET Microservices – Full Course\microservices-weather\CloudWeather.DataLoa
 D:\.NET Microservices – Full Course\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.pdb
 D:\.NET Microservices – Full Course\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.genruntimeconfig.cache
 D:\.NET Microservices – Full Course\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\ref\CloudWeather.DataLoader.dll
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\bin\Debug\net6.0\CloudWeather.DataLoader.exe
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\bin\Debug\net6.0\CloudWeather.DataLoader.deps.json
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\bin\Debug\net6.0\CloudWeather.DataLoader.runtimeconfig.json
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\bin\Debug\net6.0\CloudWeather.DataLoader.dll
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\bin\Debug\net6.0\CloudWeather.DataLoader.pdb
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.csproj.AssemblyReference.cache
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.AssemblyInfoInputs.cache
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.AssemblyInfo.cs
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.csproj.CoreCompileInputs.cache
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.dll
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\refint\CloudWeather.DataLoader.dll
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.pdb
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.genruntimeconfig.cache
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\ref\CloudWeather.DataLoader.dll

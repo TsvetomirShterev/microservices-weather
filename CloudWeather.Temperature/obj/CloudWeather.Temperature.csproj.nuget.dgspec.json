@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET Microservices – Full Course\\microservices-weather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj": {}
+    "C:\\Users\\tshterev\\OneDrive - ENDAVA\\Desktop\\Bench-Time-Study\\microservices-weather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj": {}
   },
   "projects": {
-    "D:\\.NET Microservices – Full Course\\microservices-weather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj": {
+    "C:\\Users\\tshterev\\OneDrive - ENDAVA\\Desktop\\Bench-Time-Study\\microservices-weather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET Microservices – Full Course\\microservices-weather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+        "projectUniqueName": "C:\\Users\\tshterev\\OneDrive - ENDAVA\\Desktop\\Bench-Time-Study\\microservices-weather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
         "projectName": "CloudWeather.Temperature",
-        "projectPath": "D:\\.NET Microservices – Full Course\\microservices-weather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET Microservices – Full Course\\microservices-weather\\CloudWeather.Temperature\\obj\\",
+        "projectPath": "C:\\Users\\tshterev\\OneDrive - ENDAVA\\Desktop\\Bench-Time-Study\\microservices-weather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+        "packagesPath": "C:\\Users\\tshterev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tshterev\\OneDrive - ENDAVA\\Desktop\\Bench-Time-Study\\microservices-weather\\CloudWeather.Temperature\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tshterev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,9 +44,33 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Swashbuckle.AspNetCore": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.4, )"
             }
           },
           "imports": [
@@ -67,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
