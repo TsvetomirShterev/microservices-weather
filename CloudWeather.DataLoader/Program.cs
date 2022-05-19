@@ -29,10 +29,10 @@ var zipCodes = new List<string>
 Console.WriteLine("Starting Data Load");
 
 var temperatureHttpClient = new HttpClient();
-temperatureHttpClient.BaseAddress = new Uri($"http://{tempServiceHost}:{tempServicePort}");
+temperatureHttpClient.BaseAddress = new Uri($"http://{tempServiceHost.Value}:{tempServicePort.Value}");
 
 var precipitationhttpClient = new HttpClient();
-precipitationhttpClient.BaseAddress = new Uri($"http://{precipServiceHost}:{precipServicPort}");
+precipitationhttpClient.BaseAddress = new Uri($"http://{precipServiceHost.Value}:{precipServicPort.Value}");
 
 foreach (var zip in zipCodes)
 {

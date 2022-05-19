@@ -38,3 +38,4 @@ C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weath
 C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\obj\Debug\net6.0\CloudWeather.DataLoader.csproj.CopyComplete
+C:\Users\tshterev\OneDrive - ENDAVA\Desktop\Bench-Time-Study\microservices-weather\CloudWeather.DataLoader\bin\Debug\net6.0\appsettings.json
